@@ -4,3 +4,5 @@ gitlab
 coding
 good night
 happy coding
+gitlab
+friday
